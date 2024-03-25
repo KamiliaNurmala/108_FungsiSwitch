@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PertemuanKelima", "PertemuanKelima\PertemuanKelima.vcxproj", "{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}.Debug|x64.ActiveCfg = Debug|x64
+		{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}.Debug|x64.Build.0 = Debug|x64
+		{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}.Debug|x86.Build.0 = Debug|Win32
+		{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}.Release|x64.ActiveCfg = Release|x64
+		{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}.Release|x64.Build.0 = Release|x64
+		{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}.Release|x86.ActiveCfg = Release|Win32
+		{CE382FFE-16D3-4DAA-B353-345E04FAC6B4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA4EE87B-78A1-4DB5-AED6-182E9FC4E9A6}
+	EndGlobalSection
+EndGlobal
